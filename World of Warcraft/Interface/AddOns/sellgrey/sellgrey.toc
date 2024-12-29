@@ -1,0 +1,6 @@
+## Title: Sell Grey Items
+## Interface: 30300
+## Author: Krahg of Durotan
+## Notes: "Adds a button to the Merchant frame that sells grey items"
+## Version: 3.3.5
+sellgrey.xml
